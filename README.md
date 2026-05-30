@@ -1,13 +1,13 @@
 # PySpark Practice - Databricks Notebook Collection
 
-A structured collection of **52 notebooks** and **360 hands-on problems** covering PySpark from beginner to advanced, all powered by the `samples` catalog built into every Databricks workspace - no external data needed.
+A structured collection of **52 notebooks** and **353 hands-on problems** covering PySpark from beginner to advanced, all powered by the `samples` catalog built into every Databricks workspace - no external data needed.
 
 ## Structure
 
 ```
 notebooks/
 ├── Easy/       15 notebooks · 75 problems   - fundamentals, strings, dates, nulls, set ops
-├── Medium/     21 notebooks · 147 problems  - window functions, joins, arrays, maps, higher-order functions, stats, datetime, AI functions
+├── Medium/     21 notebooks · 150 problems  - window functions, joins, arrays, maps, higher-order functions, stats, datetime, AI functions
 └── Hard/       16 notebooks · 128 problems  - UDFs, performance, Delta Lake, read/write, utilities, security, SQL, capstone
 
 hints/
